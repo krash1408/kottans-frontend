@@ -33,3 +33,17 @@ RECT
 ![HTML CSS 2](img/html_css/html_css_2.png)
 
 In this chapter I did not learn anything new, but I repeated and consolidated a lot of old information. Once again, grateful for organizing a wonderful course!
+
+## Responsive Web Design
+
+![RWD 1](img/responsive_web_design/flexfroggy_lesson.png)
+
+In this lesson no one frog hurts!
+
+![RWD 2](img/responsive_web_design/udacity_lesson.png)
+
+In this great lesson I learned basics of Responsive Web Design and try two use it in practice.
+It seems looks not bad.
+https://codepen.io/krash1408/pen/dQvmjE
+
+Let's try next!
