@@ -42,7 +42,7 @@ In this lesson no one frog hurts!
 
 ![RWD 2](img/responsive_web_design/udacity_lesson.png)
 
-In this great lesson I learned basics of Responsive Web Design and try two use it in practice.
+In this great lesson I learned basics of Responsive Web Design and try to use it in practice.
 It seems looks not bad.
 https://codepen.io/krash1408/pen/dQvmjE
 
