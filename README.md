@@ -1,6 +1,6 @@
-# ***kottans-frontend***
----
-## ***0. Git Basics***
+# kottans-frontend
+
+## 0. Git Basics
 
 In this lesson I met and mastered the skills of version control and GIT commands.
 ---
@@ -8,14 +8,14 @@ In this lesson I met and mastered the skills of version control and GIT commands
 [Screenshot](https://drive.google.com/file/d/1KEEKBtDrk3xqY_Xn3XXIyGGbs0prUmYR/view?usp=sharing)
 ---
 
-## ***Linux CLI and Networking***
+## 1. Linux CLI and Networking
 
 This lesson don't open something new for me, but it's useful to repeat old knowledges.
 ---
 [Screenshot](https://drive.google.com/file/d/16TxDeIgKV9Qvk-nwnxj8b0-l4huudTDF/view?usp=sharing)
 ---
 
-## ***Git Collaboration***
+## 2. Git Collaboration
 
 This great lesson learned me to work in collaborate. This lesson has opened a lot for me.
 ---
@@ -23,7 +23,7 @@ This great lesson learned me to work in collaborate. This lesson has opened a lo
 [Screenshot](https://drive.google.com/file/d/1kVI76_21TiXV9bOZ1GG0baar928FNFkF/view?usp=sharing)
 ---
 
-## Intro to HTML and CSS
+## 3. Intro to HTML and CSS
 
 In this chapter I did not learn anything new, but I repeated and consolidated a lot of old information.
 ---
@@ -31,7 +31,7 @@ In this chapter I did not learn anything new, but I repeated and consolidated a 
 [Screenshot](https://drive.google.com/file/d/1myCYJg3yOsHWMoE371yOsbmMuI52Mhfu/view?usp=sharing)
 ---
 
-## Responsive Web Design
+## 4. Responsive Web Design
 
 In this great lesson I repeated basics of Responsive Web Design and try to use it in practice with froggy game.
 ---
@@ -42,7 +42,7 @@ In this lesson no one frog was suffered!
 ---
 [My expirience](https://codepen.io/krash1408/pen/dQvmjE)
 
-## JavaScript Basics
+## 5. JavaScript Basics
 
 At last week (yeap, it's a lot of time) I opened a great and exciting word of programming (joke(or not?)).
 This lesson gave me the concept of basic algorithms and the ways to their solutions.
@@ -51,6 +51,6 @@ This lesson gave me the concept of basic algorithms and the ways to their soluti
 [Screenshot](https://drive.google.com/file/d/1KMBHQY0T-4gjG4tnY7Z6x3gwGOkUnd-H/view?usp=sharing)
 ---
 
-## Document Object Model
+## 6. Document Object Model
 
 In progress...
