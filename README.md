@@ -51,6 +51,16 @@ This lesson gave me the concept of basic algorithms and the ways to their soluti
 [Screenshot](https://drive.google.com/file/d/1KMBHQY0T-4gjG4tnY7Z6x3gwGOkUnd-H/view?usp=sharing)
 
 
-## 6. Document Object Model
+## 6. Document Object Model  
+
+This lesson gave me a basic knowledge of working with DOM elements, working with adding content, interactive actions and deleting content.
+
+[Screenshot](https://drive.google.com/file/d/1_GicHH9Z2h7vuanYyCSAqWF4Qa3Dr_Cm/view?usp=sharing)  
+[Screenshot](https://drive.google.com/file/d/1a-1L9O5VvFAWFEJT6dN1St_8Z7B9ppnS/view?usp=sharing)  
+
+[Demo](https://krash1408.github.io/kottans-frontend_DOM-homework/)  
+[Code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/krash1408/DOM_homework)  
+
+## 7. Building a Tiny JS World (pre-OOP) - practice  
 
 In progress...
