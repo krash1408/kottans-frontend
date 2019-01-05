@@ -63,4 +63,5 @@ This lesson gave me a basic knowledge of working with DOM elements, working with
 
 ## 7. Building a Tiny JS World (pre-OOP) - practice  
 
-In progress...
+[Demo](https://krash1408.github.io/a-tiny-JS-world/)
+[Source code](https://github.com/krash1408/a-tiny-JS-world.git)
