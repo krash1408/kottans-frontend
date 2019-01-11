@@ -86,5 +86,6 @@ Passed...
 
 ## 13. Friends App - real project!  
 
-[Demo](https://krash1408.github.io/FriendsAPP/) | 
-[Source code](https://github.com/krash1408/FriendsAPP.git)
+In progress...
+<!-- [Demo](https://krash1408.github.io/FriendsAPP/) | 
+[Source code](https://github.com/krash1408/FriendsAPP.git) -->
