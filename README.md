@@ -64,7 +64,8 @@ This code base is improved by next lesson (OOP Exercise).
 
 ## 8. Object oriented JS - practice  
 
-In progress...
+[Screenshot Udacity](https://drive.google.com/file/d/10MyeSNXn3jeEWZshyfuoUNUqfBvtMesK/view?usp=sharing) | 
+[Screenshot codewars](https://drive.google.com/file/d/16wM99ftH7HVz59Xi3m6KVWJzaKFNeRjD/view?usp=sharing)
 
 ## 9. OOP Exercise - practice  
 
