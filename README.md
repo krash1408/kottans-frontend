@@ -65,7 +65,12 @@ This code base is improved by next lesson (OOP Exercise).
 ## 8. Object oriented JS - practice  
 
 [Screenshot Udacity](https://drive.google.com/file/d/10MyeSNXn3jeEWZshyfuoUNUqfBvtMesK/view?usp=sharing) | 
-[Screenshot codewars](https://drive.google.com/file/d/16wM99ftH7HVz59Xi3m6KVWJzaKFNeRjD/view?usp=sharing)
+[Screenshot codewars](https://drive.google.com/file/d/16wM99ftH7HVz59Xi3m6KVWJzaKFNeRjD/view?usp=sharing)  
+
+### Frogger game  
+
+[Demo](https://krash1408.github.io/frogger-game/) | 
+[Source code](https://github.com/krash1408/frogger-game.git)
 
 ## 9. OOP Exercise - practice  
 
