@@ -85,12 +85,12 @@ Passed...
 
 [Demo](https://krash1408.github.io/memory-pair-game/) | 
 [Source code](https://github.com/krash1408/memory-pair-game.git)  
+
 ## 12. Website Performance Optimization  
 
 Passed...  
 
 ## 13. Friends App - real project!  
 
-In progress...
-<!-- [Demo](https://krash1408.github.io/FriendsAPP/) | 
-[Source code](https://github.com/krash1408/FriendsAPP.git) -->
+[Demo](https://krash1408.github.io/FriendsAPP/) | 
+[Source code](https://github.com/krash1408/FriendsAPP.git)
