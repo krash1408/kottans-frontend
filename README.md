@@ -36,7 +36,7 @@ In this lesson no one frog was suffered!
 
 [Screenshot](https://drive.google.com/file/d/1AVL3cZpUzeK3pdD6TrMrNxLUVn8AxB-c/view?usp=sharing)
 
-[My expirience](https://codepen.io/krash1408/pen/dQvmjE)
+[My experience](https://codepen.io/krash1408/pen/dQvmjE)
 
 ## 5. JavaScript Basics
 
